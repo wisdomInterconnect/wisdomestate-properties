@@ -1,19 +1,15 @@
 <template>
-  <div>
-    <Navbar/>
+  <div class="rent">
+    <Navbar />
     <h3>Still working on Ui & Ux design </h3>
   </div>
 </template>
 <script>
-import Navbar from '@/components/Navbar.vue';
+import Navbar from "@/components/Navbar.vue";
 export default {
-  name: "Sell",
+  name: "Buy",
   components: {
-    Navbar
-  },
-  data() {
-    return {
-    };
+    Navbar,
   },
 };
 </script>
@@ -22,26 +18,6 @@ export default {
   background-color: rgb(250, 246, 246);
 }
 
-#nav {
-}
-#nav a {
-  /* font-weight: bold;
-  color: #2c3e50;
-  pa */
-}
-
-#nav a.router-link-exact-active {
-  padding: 5px;
-}
-.nav-item {
-  padding-left: 30px;
-}
-
-.nav-item .router-link-exact-active {
-  color: white;
-  text-decoration: none;
-  font-size: 20px;
-}
 .image img {
   width: 100%;
   height: 500px;
@@ -54,8 +30,7 @@ export default {
   width: 100%;
   height: 300px;
 }
-.max:hover {
-  color: white !important;
-
+.rent{
+  margin-top:80px;
 }
 </style>

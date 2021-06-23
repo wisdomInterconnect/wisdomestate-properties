@@ -16,7 +16,7 @@
             <h1 class="" style="font-size:40px">Let’s find a home that’s perfect for you.</h1>
             <p class="" style="font-size:20px">A place where the mind and body find Absolute Rest</p>
             <button type="button" class="btn btn-outline-warning btn-lg">
-              Buy Now
+              <router-link to="../views/Buy.vue"></router-link> Buy Now
             </button>
           </div>
         </div>

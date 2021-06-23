@@ -167,16 +167,8 @@
        </div>
        <SimpleList/>
        <Footer/>
-       <Dropdown/>
        <p>
-
        </p>
-       <p>
-         
-       </p>
-       <Church/>
-       
-       
  </div>
 </template>
 <script>

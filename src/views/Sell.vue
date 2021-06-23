@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar/>
-    <h3>sell</h3>
+    <h3>Still working on Ui & Ux design </h3>
     <product-list-one></product-list-one>
     <product-list-two></product-list-two>
   </div>

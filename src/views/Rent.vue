@@ -1,10 +1,8 @@
 <template>
   <div class="rent">
     <Navbar />
-    <h3 class="max">Boost your Rental</h3>
-    <h3 class="max">Boost your Rental</h3>
-    <h3 class="max">Boost your Rental</h3>
-    <h3 class="max">Boost your Rental</h3>
+    <h3>Still working on Ui & Ux design </h3>
+  </div>
   </div>
 </template>
 <script>

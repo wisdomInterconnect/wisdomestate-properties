@@ -3,7 +3,8 @@
     <!--nav -->
     <Navbar/>
     <!--nav -->
-    <h3>Adertisement</h3>
+    <h3>Still working on Ui & Ux design </h3>
+  </div>
   </div>
 </template>
 <script>

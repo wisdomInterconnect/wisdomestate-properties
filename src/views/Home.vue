@@ -16,7 +16,7 @@
             <h1 class="" style="font-size:40px">Let’s find a home that’s perfect for you.</h1>
             <p class="" style="font-size:20px">A place where the mind and body find Absolute Rest</p>
             <button type="button" class="btn btn-outline-warning btn-lg">
-              <router-link to="../views/Buy.vue"></router-link> Buy Now
+              <router-link to="/buy" class="buy"> Buy Now</router-link>
             </button>
           </div>
         </div>
@@ -478,5 +478,11 @@ body {
 .max:hover {
   color: white !important;
 }
+.buy{
+  color: rgb(247, 183, 7) !important;
+}
+.buy:hover{
+  color: white!important;
+  }
 
 </style>

@@ -175,16 +175,12 @@
 import Navbar from "@/components/Navbar.vue";
 import Footer from "@/components/Footer.vue";
 import SimpleList from "@/components/SimpleList.vue";
-import Church from "@/components/Church.vue";
-import Dropdown from '@/components/Dropdown.vue';
 export default {
   name:'Buy',
   components:{
     Navbar,
     Footer,
     SimpleList,
-    Church,
-    Dropdown
   },
   data() {
     return {

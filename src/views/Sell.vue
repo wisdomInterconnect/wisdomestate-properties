@@ -2,8 +2,6 @@
   <div>
     <Navbar/>
     <h3>Still working on Ui & Ux design </h3>
-    <product-list-one></product-list-one>
-    <product-list-two></product-list-two>
   </div>
 </template>
 <script>
@@ -15,12 +13,6 @@ export default {
   },
   data() {
     return {
-      products: [
-        { name: "Banana Skin", price: 20 },
-        { name: "Shiny Star", price: 40 },
-        { name: "Greeen Shells", price: 60 },
-        { name: "Red Shell", price: 80 },
-      ],
     };
   },
 };
